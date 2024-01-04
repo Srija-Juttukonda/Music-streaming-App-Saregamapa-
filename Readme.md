@@ -23,4 +23,4 @@ Languages/Skills used:
 
 
 
-Developed by: Manu Arora and Yash Saluja
+Developed by: Srija_Juttukonda
